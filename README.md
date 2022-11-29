@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nikeeeboy
+- 👀 I’m a developer bot from discord
+- 🌱 I’m currently learning javascript
+- 📫 I'm developing a shiny bot to discord
